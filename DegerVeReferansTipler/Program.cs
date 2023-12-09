@@ -17,6 +17,8 @@ namespace DegerVeReferansTipler
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
             // sayilar1[0] = 999
+            //Deger tip: int, decimal, float, double, bool = değer tiplerdir.
+            //Referans tip: array, class, interface = referans tiplerdir.
 
 
 
